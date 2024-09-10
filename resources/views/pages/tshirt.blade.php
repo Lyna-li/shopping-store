@@ -11,7 +11,7 @@
 <section class="hijab1 container">
     <div class="content">
          <div class="image">
-             <img src="{{ asset('assets/images/tshirt1.jpg') }}" alt="">
+             <img src="{{ asset('assets/images/ts.jpg') }}" alt="">
          </div>
          <div class="description">
              <div class="nom">
